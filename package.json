@@ -1,0 +1,27 @@
+{
+  "name": "waka",
+  "version": "1.0.0",
+  "description": "my wakatime client",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "wakatime": "^1.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmithdev/waka.git"
+  },
+  "author": "Jamie Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsmithdev/waka/issues"
+  },
+  "homepage": "https://github.com/jsmithdev/waka#readme"
+}
